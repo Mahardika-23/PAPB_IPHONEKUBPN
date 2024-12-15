@@ -2,10 +2,10 @@ import mysql from "mysql2/promise";
 
 // Konfigurasi database
 const dbConfig = {
-  host: "localhost",
+  host: "mysql.railway.internal",
   user: "root",
-  password: "",
-  database: "iphonekubpn",
+  password: "qdYchgfqAaRyQyTnRszHwZymDTjPdPvk",
+  database: "railway",
 };
 
 // Fungsi untuk koneksi ke database
